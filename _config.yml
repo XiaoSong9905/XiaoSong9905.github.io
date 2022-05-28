@@ -96,13 +96,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "xiaosong9905.github.io"
+  github           : "xiaosong9905"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : 
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/xiaosx"
+  linkedin         : "xiaosx"
   orcid            : 
   pinterest        :
   soundcloud       :
@@ -178,7 +178,33 @@ collections:
 
 # Defaults
 defaults:
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+  # _projects
+  - scope:
+      path: ""
+      type: projects
+    values:
+      layout: single
+      author_profile: true
+      share: false
+      comments: false
+  # _resume
+  - scope:
+      path: ""
+      type: resume
+    values:
+      layout: single
+      author_profile: true
+      share: false
+      comment: false
 
+  
 # Sass/SCSS
 sass:
   sass_dir: _sass
