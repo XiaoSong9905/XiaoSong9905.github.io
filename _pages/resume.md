@@ -10,9 +10,17 @@ redirect_from:
 
 {% include base_path %}
 
+PDF Resume
+------
+[Download Here](http://xiaosong9905.github.io/files/XiaoSong-Resume.pdf)
+
+
+
+
 Education
 ------
-* High School, The Affiliate High School of Peking University, 2017
+* Junior High School Diploma, Beijing 101 Middle School, 2014
+* Senior High School Diploma, The Affiliate High School of Peking University, 2017
 * B.S. in Computer Science, Minor in Statistics, University of Michigan - Ann Arbor, 2021
   * University Honors (Fall 2018, Winter&Fall 2019, Winter 2020), James B. Angell Scholar (2020, 2021)
 * M.Eng. in Electronic Engineering and Computer Science, University of California - Berkeley, 2022
@@ -39,12 +47,9 @@ Work & Intern experience
 
 Skills
 ------
-* Proficient: C++, CUDA, Arm Intrinsic (NEON), AVX2, AVX512
+* Proficient: C++, CUDA, Arm Intrinsic (NEON), x86 Intrinsic (AVX2 AVX512)
 * Experienced: Python, PyTorch
 
 
 
 
-PDF Resume
-------
-[Download Here](http://xiaosong9905.github.io/files/XiaoSong-Resume.pdf)
