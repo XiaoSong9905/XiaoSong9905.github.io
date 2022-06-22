@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to Xiao Song's homepage. I received my B.S in CS (minor in Stats) from University of Michigan - Ann Arbor and receive my M.Eng in EECS from University of California - Berkeley. I'm broadly interested in HPC, Parallel Computing, C++.
+Welcome to Xiao Song's homepage (pronounced as siao). I received my B.S in CS (minor in Stats) from University of Michigan - Ann Arbor and receive my M.Eng in EECS from University of California - Berkeley. I'm broadly interested in HPC, Parallel Computing, C++.
 
 
 
