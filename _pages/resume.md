@@ -47,7 +47,7 @@ Work & Intern experience
 
 Skills
 ------
-* Proficient: C++, CUDA, Arm Intrinsic (NEON), x86 Intrinsic (AVX2 AVX512)
+* Proficient: C++, CUDA, Arm Intrinsic (NEON), x86 Intrinsic (AVX2 AVX512), OpenMP, MPI
 * Experienced: Python, PyTorch
 
 
