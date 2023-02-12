@@ -13,4 +13,4 @@ Welcome to Xiao Song's homepage (pronounced as siao). I received my B.S in CS (m
 
 
 
-For anyone who visits my homepage, please also take time to consider donating to [WIKIMEDIA](https://wikimediafoundation.org). Your donation would help keep the knowledge free & neutral. Please also consider donating to [China Social Welfare Foundation's Rural Area Girl Education Program](https://item.taobao.com/item.htm?spm=a1z09.2.0.0.7e272e8d0WkMM7&id=574417828870&_u=3qt913s669f) your generosity will help girls in rural China get a decent education.
+For anyone who visits my homepage, please also take time to consider donating to [China Social Welfare Foundation's Rural Area Girl Education Program](https://item.taobao.com/item.htm?spm=a1z09.2.0.0.7e272e8d0WkMM7&id=574417828870&_u=3qt913s669f) your generosity will help girls in rural China get a decent education.
