@@ -12,7 +12,7 @@ redirect_from:
 
 PDF Resume
 ------
-[Download Here (might be outdated)](http://xiaosong9905.github.io/files/XiaoSong-Resume.pdf) 
+[Download Here (outdated)](http://xiaosong9905.github.io/files/XiaoSong-Resume.pdf) 
 
 
 
@@ -32,8 +32,8 @@ Education
 
 Work & Intern experience
 ------
-* Architect (HPC, SW) @ NVIDIA (Beijing) 2022.10 - present
-  * Develop kernels for latest GPU architecture for trt,cublas,cudnn,cutlass
+* Architect @ NVIDIA Fast Kernel (Beijing) 2022.10 - present
+  * Develop kernels for latest GPU architecture for TensorRT,cuBLAS,cuDNN, and CUTLASS.
 
 
 
@@ -48,8 +48,8 @@ Work & Intern experience
 
 Skills
 ------
-* Proficient: C++, CUDA, Arm Intrinsic (NEON), x86 Intrinsic (AVX2 AVX512), OpenMP, MPI
-* Experienced: Python, PyTorch
+* Proficient: C++, CUDA, Arm Intrinsic (NEON)
+* Experienced: Python, PyTorch, x86 Intrinsic (AVX2 AVX512), OpenMP, MPI
 
 
 
